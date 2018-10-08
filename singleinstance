@@ -1,0 +1,4 @@
+public class Singleinstance {
+  private Singleintstance singleinstance = new Singleinstance();
+  
+}
